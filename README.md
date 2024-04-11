@@ -6,7 +6,7 @@ Foi criado um linktree com uma peculiar funcionalidade. Existem um switch de tem
 
 ## Autores
 
-Sergio C S Filho
+Fernando
 - https://github.com/FernandoAz09
 
 
